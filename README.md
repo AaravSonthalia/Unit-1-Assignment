@@ -1,2 +1,2 @@
-# Unit-1-Assignment
-Coded a Mad Libs story in JavaScript.
+# MadLibs-Project
+This is a Mad Libs story coded in JavaScript.
